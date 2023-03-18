@@ -1,6 +1,7 @@
 <?php
 
     include_once 'connect.php';
+    include_once 'connect.php';
     $sql="SELECT * FROM user ";
     $result=mysqli_query($connect,$sql);
     if ($result)
