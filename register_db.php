@@ -33,7 +33,7 @@
 
         if ($result) { // if user exists
             if ($result['username'] === $username) {
-                array_push($errors, "Username already exists");
+                array_push($errors, "Username already exists");//dasdasd
             }
             if ($result['email'] === $email) {
                 array_push($errors, "Email already exists");
