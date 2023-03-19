@@ -34,7 +34,7 @@
     <?php include('errors.php');?>
     <input type="hidden" id="Qid" name="Qid" value="<?php echo $rowcount ?>">
         <div class = "input-group">
-            <label>ข้อสอบ</label><br>
+            <label>ข้อสอบ11</label><br>
             <input type="text" name="Q"><br>
         </div>
         <div class = "input-group">
