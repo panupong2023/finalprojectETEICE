@@ -22,5 +22,5 @@ exit;*/
                 echo "window.location = 'formuser.php';";
            echo "</script>";
            }
-           
+           //GG
 ?>

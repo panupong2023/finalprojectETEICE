@@ -10,7 +10,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <!-- Bootstrasdasdadasdasdasdasddasdadadaap CSS -->
+    <!-- Bootstrasdasdadasdasdasdasddasdadadaaps GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG CSS -->
     <link href="bootstrap-5.0.1-dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/index_style.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
