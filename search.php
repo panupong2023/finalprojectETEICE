@@ -11,7 +11,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <!-- Bootstrap CfddddddsdasdasdasddasasdasdSS -->
+    <!-- Bootstrap CfddddddsdasdasddddasddasasdasdSS -->
     <link href="bootstrap-5.0.1-dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/index_style.css" rel="stylesheet">
     <script src="bootstrap-5.0.1-dist/js/bootstrap.min.js"></script>
